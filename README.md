@@ -2,5 +2,6 @@
 <details p align="center"/>
 <summary></summary>
   i get super happy at anything slenderman related
-  
+  <p style="margin-bottom: 30px;">
+    <a href="">strawpage</a>
 </details>
